@@ -1,0 +1,270 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A counterplea to the cowards apologie, manifesting by an ancient record and law; the unlawfullnesse of passing any vote or iudgement against law, or conscience, for feare of death, danger, or any forfeiture, in any court, counsell or iudicature, especially in the Houses of Parliament.</title>
+            <author>Prynne, William, 1600-1669.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91166</idno>
+            <idno type="STC">Wing P3932</idno>
+            <idno type="STC">Thomason E400_3</idno>
+            <idno type="STC">ESTC R201738</idno>
+            <idno type="EEBO-CITATION">99862237</idno>
+            <idno type="PROQUEST">99862237</idno>
+            <idno type="VID">160395</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91166)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160395)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E400[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A counterplea to the cowards apologie, manifesting by an ancient record and law; the unlawfullnesse of passing any vote or iudgement against law, or conscience, for feare of death, danger, or any forfeiture, in any court, counsell or iudicature, especially in the Houses of Parliament.</title>
+                  <author>Prynne, William, 1600-1669.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to William Prynne by Wing.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "July 26 1647".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb n="1" facs="tcp:160395:1" rendition="simple:additions"/>
+            <head>A COVNTERPLEA
+to the Cowards Apologie, mani<g ref="char:EOLhyphen"/>feſting
+by an ancient Record
+and Law;
+The unlawfullneſſe of paſſing any Vote or
+Iudgement againſt Law, or Conſcience, for feare of Death,
+Danger, or any forfeiture, in any Court, Counſell or
+Iudicature, eſpecially in the Houſes of
+PARLIAMENT.</head>
+            <p>
+               <seg rend="decorInit">I</seg>N the Parliament of 1.<note n="*" place="margin">Fabians Chron. part. 7 Aa. 1 H. 4.</note> H. 4. Some <hi>Lords</hi> and
+others excuſing themſelves from their <hi>unjuſt il<g ref="char:EOLhyphen"/>legall
+actions, and votes in the Privy-Councell,
+that what they adviſed and did, was by con<g ref="char:EOLhyphen"/>ſtraint
+of</hi> King Richard, <hi>and for feare of death;</hi>
+The whole <hi>Houſe of Commons</hi> thereupon exhibited this no<g ref="char:EOLhyphen"/>table
+<hi>Petition</hi> to the <hi>King in Parliament,</hi> [worthy to be en<g ref="char:EOLhyphen"/>graven
+on the walls of both Houſes in Letters of Gold]<note n="*" place="margin">1 H <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> NVM. 9.</note>
+               <hi>That the Lords, Spirituall and Temporall, and other perſons
+might not be received in time to come for to excuſe them, to ſay
+<hi>That They durſt not to doe or Speak the Law, Nor What
+they thought For doubt of death; Or that they Were not
+Free of themſelves: becauſe they are more bound under-Pain
+of Treaſon to kéepe their Oath [or doe their duty]
+then to Feare death or any Forfeiture. And hereupon</hi>
+               </hi>
+[as<note n="*" place="margin">Chro<g ref="char:EOLhyphen"/>nicle: part. 7. 1. H. 4.</note> 
+               <hi>Fabian</hi> writes] there paſſed this Law in Parliament
+THAT NO LORD, NOR OTHER PERSON <hi>of no degree
+ſhould after that day, lay for his excuſe,</hi> ANY CONSTRAINT
+OR COACTING OF HIS PRINCE IN EXECVTING
+<pb n="2" facs="tcp:160395:2"/>
+OF ANY VVRONG IVDGEMENT, <hi>or other criminous. or
+unlawfull deedes, ſaying,</hi> THAT FOR FEARE THEY
+DVRST NONE OTHERVVISE DOE, <hi>for ſuch excuſe after
+that Day.</hi> SHALL STAND HIM IN NO EFFECT.</p>
+            <p>If no ſuch excuſe might be alleaged by any Lord or private
+Perſon whatſoever; much leſſe then by the whole or major
+part of the <hi>Houſe of Lords or Commons,</hi> conſiſting of many
+hundred perſons of greateſt <hi>Eminency, Honour,</hi> and <hi>Power,</hi>
+able not only magnanimouſly to contemne and withſtand to
+death, the higheſt menaces, unlawfull violence, and armed
+forces of the King, (as they have formerly done to their e<g ref="char:EOLhyphen"/>ternall
+honour) but likewiſe much more of their owne <hi>di<g ref="char:EOLhyphen"/>ſtempered
+Army,</hi> with an undaunted and Heroicall reſoluti<g ref="char:EOLhyphen"/>on;
+to which their <hi>Proteſtations</hi> and <hi>Covenant,</hi> hath more
+engaged them now, then any of their Predeceſſors in former
+Parliaments.</p>
+            <p>Let then every Member of either Houſe of Parliament, lay
+their Hands upon their hearts, and ſet themſelves ſeriouſly in
+Gods and the whole Kingdomes preſence, (whom they re<g ref="char:EOLhyphen"/>preſent)
+and anſwer this demand without any equivocations,
+or evaſions, (as they ſhall anſwer it at the great day of judge<g ref="char:EOLhyphen"/>ment,
+before the <hi>tribunall of Chriſt,</hi> in the view of all the
+world;) Whether many of their late Votes, <hi>touching the re<g ref="char:EOLhyphen"/>vocation
+of their Remonſtrance againſt the Armies Petiti<g ref="char:EOLhyphen"/>on;
+the continuance of the Army under a ſettled pay</hi> (to the
+Countries inſupportable oppreſſion and charge) after their
+Votes for its disbanding; <hi>the owning this Army for their
+owne, notwithſtanding their preſent tumultuous procee<g ref="char:EOLhyphen"/>dings;
+the putting of the Militia and all forces of the King<g ref="char:EOLhyphen"/>dome
+under Sir</hi> Thomas Fairfax <hi>his Command</hi> [after his and
+the Armies refuſall to be commanded by the Houſes, or to
+obey their Votes:] <hi>the removall and diſpoſall of the Kings
+Perſon as the Army ſhall direct: the Impeachment, Charge,
+diſmiſſion from the Houſes attendance of the eleven impea<g ref="char:EOLhyphen"/>ched
+Members, and Votes for the ſelfe accuſation of other
+<pb n="3" facs="tcp:160395:2"/>
+unimpeached Members, without and before any particular
+Charge or accuſer; the diſcountenancing, and diſperſing of
+ſuch dutifull gallant Officers and Souldiers, who in obedi<g ref="char:EOLhyphen"/>ence
+and conſcience to their votes deſerted the ARMY;
+the Declaration againſt the introducing of forraigne forces,</hi>
+(without any ground or proofe of ſuch a deſigne intended,)
+<hi>the</hi>
+               <note n="*" place="margin">Purpo<g ref="char:EOLhyphen"/>ſeth to pnt the Tower and Maga<g ref="char:EOLhyphen"/>zins there under the command and power of Inde<g ref="char:EOLhyphen"/>pendents &amp; the Army to over<g ref="char:EOLhyphen"/>awe and enſlave the City.</note> 
+               <hi>altering of the Militia of London,</hi> without petition from
+<hi>Complaynt</hi> of, or any the leaſt conſent of the <hi>City,</hi> or con<g ref="char:EOLhyphen"/>ſultation
+with them (to whom they ſtand ſo much engaged
+for their conſtant affection and preſervation more then to
+the Army) and the like, only upon the Armyes propo<g ref="char:EOLhyphen"/>ſals
+(in a ſtrange extrajudiciall mutinous way;) proceeded not
+principally, if not ſolely, from a degenerous pannick feare
+and terrour of the <hi>Army,</hi> or low complyance to ſatiſfy
+them in all their bold and <hi>unreaſonable demands,</hi> or dread of
+ſome ſtrang ſurmiſed violence, Death or other loſs, and incon<g ref="char:EOLhyphen"/>venience
+from them, rather then from any reall principles of
+juſtice, Conſcience, Piety, Honour, Sound Reaſon, or true Chriſ<g ref="char:EOLhyphen"/>tian
+Policy? If yea; as their owne conſciences can beſt teſti<g ref="char:EOLhyphen"/>fy,
+&amp; ſome of their tongues confeſs (who aſſure their freinds,
+that they would never have condiſcended to any of theſe
+Votes had they not been under the <hi>force and power of the
+Army:)</hi> Let themſelves, and the Army judge of the validity
+of ſuch enforced, unfree, and timorous Votes; and how well
+thoſe who gave their aſſents unto them, have diſcharged their
+Conſciences to God and duties to their Country; Yea, how
+they have made good their Solemne League, Covenant, and
+proteſtations. And if their Conſciences herein condemne
+them, let them <hi>ſin no more</hi> (in ſuch a kinde as this) <hi>leſt a
+worſe thing happen to them,</hi> and the whole <hi>Kingdome, City,
+and Country</hi> be Enthralled, Ruined, yea the Honour,
+Prviledges, &amp; Freedome of this and all future Parliaments be<g ref="char:EOLhyphen"/>trayed,
+by their ſordid feare of death or any other loſs from
+<hi>an unformidable Army</hi> of their own rayſing: ſome of whoſe
+<hi>Anti-monarchicall, Anti-magiſtraticall, Anti-parliamentall,
+<pb n="4" facs="tcp:160395:3"/>
+Anarchicall Schiſmaticall</hi> dangerous <hi>Principles,</hi> and High <hi>de<g ref="char:EOLhyphen"/>mands,</hi>
+can preſage nothing but Deſolation to us, if comply<g ref="char:EOLhyphen"/>ed
+with; and can no wayes endanger Parliament or Kingdom,
+but by an unworthy condiſcention to them; and will ſoone
+vaniſh into empty vapours, if gallantly denyed, or manfully
+oppoſed by both Houſes, with an <hi>Heroick Engliſh reſolution</hi>
+to which the many former experiences of Gods power and
+protection in ſundry deſperate exigencies, and that ſaying of
+the <hi>Prophet</hi> might animate &amp; engage each conſcientius Mem<g ref="char:EOLhyphen"/>ber,
+maugre all the Armies power threats, (whoſe Commi<g ref="char:EOLhyphen"/>ſſions
+they may revoke at pleaſure), or any humane force
+<hi>I,</hi>
+               <note n="*" place="margin">Iſay 51. 12. 13.</note> 
+               <hi>even I, am he that comforteth thee, who art thou that
+thou ſhouldeſt be afraid of a man that ſhall dye, or of the ſonne
+of man that ſhall be made as graſſe? And forgetteſt the Lord
+thy maker, who ſtretched forth the heavens, and laid the
+foundations of the earth, and haſt feared continually every
+day, becauſe of the fury of the oppreſſor as if he were ready to
+deſtroy: And where is the fury of the oppreſſor?</hi>
+               <note n="*" place="margin">Iſay 54. 17.</note> 
+               <hi>No Wea<g ref="char:EOLhyphen"/>pon
+that is formed againſt thee ſhall proſper, and every
+tongue that ſhall riſe againſt thee in judgement, thou ſhalt
+condemne.</hi> Such a divine Cordial, as this, cannot but engage
+all Generous Members really fearing God, or truly loving
+their country, Religion, the honour &amp; freedom of Parlia<g ref="char:EOLhyphen"/>ments,
+to quit themſelves like men, like <hi>Engliſhmen</hi> of farr
+Ancienter, and better deſcent then moſt in the <hi>Army;</hi> Like
+an undaunted <hi>Engliſh Parliament;</hi> and encourage every
+particular Member to reſolve with David. Pſal. 27 3. <hi>Though
+an Hoſt ſhould encamp againſt mee, my heart ſhall not feare;</hi>
+nor yet my tongue ever vote or cry, Ay or No againſt my rea<g ref="char:EOLhyphen"/>ſon,
+Juſtice, Judgement, conſcience, or the Parliaments ho<g ref="char:EOLhyphen"/>nour
+in the leaſt punctilio: Which not to doe for fear of an
+Army, death, or any forfeiture, the forecited <hi>Petition of
+the whole</hi> houſe of Commons hath reſolved, to be no leſs then
+<hi>Treaſon</hi> to the Kingdom, and thoſe who have intruſted them,
+uncapable of any excuſe, or mitigation through fear of dan<g ref="char:EOLhyphen"/>ger;
+An argument, which too many now unworthily inſiſt on.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
